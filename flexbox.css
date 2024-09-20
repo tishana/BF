@@ -1,0 +1,88 @@
+.main {
+    display: flex;
+    width: 1110px;
+    height: 800px;
+    background-color: aqua;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap-reverse; */
+    flex-flow: wrap-reverse ;
+    align-content: space-evenly;
+}
+
+.container {
+    display: flex;
+    width: 1100px;
+    /* flex-direction: row-reverse; */
+    /* justify-content: space-evenly; */
+    /* background-color: black; */
+    flex-direction: row-reverse;
+}
+
+.boxes {
+    border: .1px solid white;
+    width: 99px;
+    height: 99px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+#box1 {
+    background-color: green;
+}
+
+#box2 {
+    background-color: yellow;
+}
+
+#box3 {
+    background-color: pink;
+    
+}
+
+#box4 {
+    background-color: blue;
+}
+
+#box5 {
+    background-color: red;
+}
+#box6 {
+    background-color: orange;
+}
+#box7 {
+    background-color: beige;
+    
+}
+#box8 {
+    background-color: lightgrey;
+}
+
+#box9 {
+    background-color: green;
+}
+
+#box10 {
+    background-color: yellow;
+}
+
+#box11 {
+    background-color: pink;
+}
+
+#box12 {
+    background-color: blue;
+}
+
+#box13 {
+    background-color: red;
+}
+#box14 {
+    background-color: orange;
+}
+#box15 {
+    background-color: beige;
+}
+#box16 {
+    background-color: lightgrey;
+}
